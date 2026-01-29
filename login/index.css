@@ -1,0 +1,84 @@
+.main{
+    box-sizing: content-box;
+    margin: 100px;
+    border: 2px solid black;
+    padding: 300px;
+    position: relative;
+    top: 15px;
+    left: 400px;
+    height: 40px;
+    width: 40px;
+    background-color : rgb(195, 195, 235);
+
+}
+
+.heading{
+    position: relative;
+    
+    height: 50px;
+    width: 640px;
+    right: 301px;
+    bottom: 301px;
+    color: rgb(86, 92, 92);
+    font-size: 40px;
+    font: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.input {
+    height: 150px;
+    width: 300px;
+    position: relative;
+    bottom: 250px;
+    right: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.box{
+    margin-bottom: 50px;
+    border-radius: 50px;
+    height: 60px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+#check{
+    position: relative;
+    bottom: 315px;
+    right: 130px;
+}
+
+.me{
+    position: relative;
+    bottom: 335px;
+    right: 90px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.button{
+    position: relative;
+    bottom: 200px;
+    height: 60px;
+    width: 200px;
+    right: 100px;
+    border-radius: 50px;
+    color: rgb(207, 23, 23);
+    background-color: rgb(138, 138, 226);
+    font-size: large;
+    font-weight: bold;
+}
+
+
+
