@@ -1,4 +1,4 @@
-# Minimalist Landing Page 🌿
+# Mintlify Landing Page 🌿
 
 A clean and modern **minimalist landing page** built using **only HTML and CSS**.  
 No frameworks, no JavaScript — just simple, fast, and responsive design.
